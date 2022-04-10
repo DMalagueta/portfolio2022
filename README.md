@@ -1,4 +1,4 @@
-# portfolio2022
+# Portfolio2022
 A simples responsive portfolio made with HTML, CSS, Javascript
 
 
